@@ -6,7 +6,7 @@ A comprehensive machine learning project that forecasts energy consumption using
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
+- [Project Structure](#project-structure) 
 - [Usage](#usage)
 - [Data Format](#data-format)
 - [How It Works](#how-it-works)
